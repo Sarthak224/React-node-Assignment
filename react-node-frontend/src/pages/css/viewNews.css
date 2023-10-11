@@ -1,0 +1,49 @@
+.main-news-cont{
+    width:60%;
+    margin:auto;
+}
+
+
+.main-news-cont img{
+  width:60vw;
+  height:41vw;
+}
+
+.main-news-cont .title{
+    font-size: 29px;
+    padding:20px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.main-news-cont .description{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.page-view-single .date{
+    font-weight: normal;
+    font-size: 13px;
+    color:#555556;
+    /* margin-left: 20px; */
+    }
+    
+    .page-view-single .author{
+      font-weight: normal;
+      font-size: 13px;
+      color:#d9134b9a;
+      margin-left: 10px;
+    }
+    .page-view-single .title{
+      word-wrap: break-word;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin:20px 0px;
+      color:#333;
+      font-weight: bold;
+      font-size: 27px;
+    }
+    
